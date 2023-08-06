@@ -465,7 +465,7 @@ p {
 	position:relative;
 	padding:0;
 	outline:0;
-	width:900px;
+	width:350px;
 	animation:zoom 0.6s;
 }
 
@@ -761,6 +761,10 @@ p {
 		height: 100%;
 	}
 
+	.windowContent {
+		width:600px;
+	}
+
 	/* End Project */
 }
 
@@ -796,6 +800,14 @@ p {
 	}
 
 	/* End header */
+
+	/* Project */
+
+	.windowContent {
+		width:750px;
+	}
+
+	/* End Project */
 }
 
 /* End  Media Query For Desktop */
